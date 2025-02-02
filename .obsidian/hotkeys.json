@@ -1,0 +1,26 @@
+{
+  "editor:delete-paragraph": [],
+  "editor:open-link-in-new-leaf": [],
+  "editor:toggle-checklist-status": [],
+  "obsidian-editor-shortcuts:duplicateLine": [],
+  "obsidian-outliner:unfold": [],
+  "obsidian-outliner:fold": [],
+  "obsidian-editor-shortcuts:deleteLine": [],
+  "obsidian-excalidraw-plugin:save": [],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ]
+}

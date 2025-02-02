@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "6d99ced505c73e87",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d682abb207ca476",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b850d24a718158e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns/Behavioural/Iterator.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Iterator"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d65821726b11abee",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dde153c1f3a07b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5682c0a771c6054",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "File explorer"
+            }
+          },
+          {
+            "id": "e9dc5daef041a901",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cea1a623fd464b2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a7ce213b6031647",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bd4afbcab7040e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8983c14ccb9c96d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "be564864a058b266",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Builder.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Builder"
+            }
+          },
+          {
+            "id": "0fbcc09e36922bad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "80b3176443ef0c63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Builder.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Builder"
+            }
+          },
+          {
+            "id": "1a2017f2d6e8a8c6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "fc9f833472c51085",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "f0eddb3846f96aa0",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          },
+          {
+            "id": "281a934269bab55c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "9b850d24a718158e",
+  "lastOpenFiles": [
+    "Design Patterns/Behavioural/Observor.md",
+    "Design Patterns/Behavioural Design Patterns.md",
+    "Design Patterns/Creational Design Patterns.md",
+    "Design Patterns/Structural Design Patterns.md",
+    "Design Patterns/Behavioural/Iterator.md",
+    "Design Patterns/Design Pattern.md",
+    "Design Patterns/Structural/Adapter.md",
+    "Design Patterns/Structural/Composite.md",
+    "Design Patterns/Structural/Facade.md",
+    "Design Patterns/Creational/Abstract Factory.md",
+    "Design Patterns/Creational/Singleton.md",
+    "Design Patterns/Creational/Prototype.md",
+    "Design Patterns/Creational/Factory.md",
+    "Design Patterns/Creational/Builder.md",
+    "Design Patterns/Structural",
+    "Design Patterns/Behavioural",
+    "Linkedin Todo.md",
+    "Functions.md",
+    "Design Patterns/Creational",
+    "Design Patterns",
+    "Excalidraw/Abstract Factory Class Diagram.md",
+    "Excalidraw/Untitled Diagram.svg",
+    "Untitled Diagram.svg",
+    "Excalidraw/Drawing 2025-02-01 17.42.02.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-01 17.42.03.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-01 17.42.03_0.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-01 17.42.02_0.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-01 17.42.01.excalidraw.md",
+    "Excalidraw",
+    "Drawing 2025-02-01 17.06.16.excalidraw.md",
+    "Drawing 2025-02-01 17.05.57.excalidraw.md",
+    "2025-01-09.md",
+    "2025-01-02.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
