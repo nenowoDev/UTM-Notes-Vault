@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8d682abb207ca476",
+        "id": "a2136aef8e63fd13",
         "type": "tabs",
         "children": [
           {
-            "id": "9b850d24a718158e",
+            "id": "7be1fb153cdfb940",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Behavioural/Iterator.md",
+                "file": "System Design Architecture/Construction Design.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Iterator"
+              "title": "Construction Design"
             }
           }
         ],
@@ -167,8 +167,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -177,8 +177,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -187,8 +187,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -206,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,28 +224,30 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9b850d24a718158e",
+  "active": "b5682c0a771c6054",
   "lastOpenFiles": [
-    "Design Patterns/Behavioural/Observor.md",
-    "Design Patterns/Behavioural Design Patterns.md",
-    "Design Patterns/Creational Design Patterns.md",
-    "Design Patterns/Structural Design Patterns.md",
-    "Design Patterns/Behavioural/Iterator.md",
-    "Design Patterns/Design Pattern.md",
-    "Design Patterns/Structural/Adapter.md",
-    "Design Patterns/Structural/Composite.md",
-    "Design Patterns/Structural/Facade.md",
-    "Design Patterns/Creational/Abstract Factory.md",
-    "Design Patterns/Creational/Singleton.md",
-    "Design Patterns/Creational/Prototype.md",
-    "Design Patterns/Creational/Factory.md",
-    "Design Patterns/Creational/Builder.md",
-    "Design Patterns/Structural",
-    "Design Patterns/Behavioural",
+    "AI",
+    "System Design Architecture/Design Pattern.md",
+    "System Design Architecture/Behavioural Design Patterns.md",
+    "System Design Architecture/Creational Design Patterns.md",
     "Linkedin Todo.md",
+    "System Design Architecture/Construction Design.md",
+    "System Design Architecture/Behavioural/Observer.md",
+    "System Design Architecture/Behavioural/Iterator.md",
+    "System Design Architecture/Structural Design Patterns.md",
+    "System Design Architecture/Creational/Factory.md",
+    "System Design Architecture/Creational/Builder.md",
+    "System Design Architecture/Creational/Singleton.md",
+    "System Design Architecture/Structural/Adapter.md",
+    "System Design Architecture/Structural/Composite.md",
+    "System Design Architecture/Structural/Facade.md",
+    "System Design Architecture/Creational/Abstract Factory.md",
+    "System Design Architecture/Creational/Prototype.md",
+    "System Design Architecture/Structural",
+    "System Design Architecture/Behavioural",
     "Functions.md",
-    "Design Patterns/Creational",
-    "Design Patterns",
+    "System Design Architecture/Creational",
+    "System Design Architecture",
     "Excalidraw/Abstract Factory Class Diagram.md",
     "Excalidraw/Untitled Diagram.svg",
     "Untitled Diagram.svg",
@@ -256,8 +259,6 @@
     "Excalidraw",
     "Drawing 2025-02-01 17.06.16.excalidraw.md",
     "Drawing 2025-02-01 17.05.57.excalidraw.md",
-    "2025-01-09.md",
-    "2025-01-02.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"

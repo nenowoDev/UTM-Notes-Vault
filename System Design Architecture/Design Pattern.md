@@ -18,13 +18,13 @@
 - [[Singleton]]
 
 #### [[Structural Design Patterns]]
--[[Adapter]]
--[[Composite]]
--[[Facade]]
+- [[Adapter]]
+- [[Composite]]
+- [[Facade]]
 
 
 #### [[Behavioural Design Patterns]]
--[[Iterator]]
--[[Observer]]
+- [[Iterator]]
+- [[Observer]]
 
 
