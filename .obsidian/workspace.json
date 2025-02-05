@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7be1fb153cdfb940",
+            "id": "453d12081e2b3a90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design Architecture/Construction Design.md",
+                "file": "System Design Architecture/Software Design Management.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Construction Design"
+              "title": "Software Design Management"
             }
           }
         ],
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "4a7ce213b6031647",
@@ -224,17 +225,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b5682c0a771c6054",
+  "active": "453d12081e2b3a90",
   "lastOpenFiles": [
-    "AI",
+    "System Design Architecture/Structural Design Patterns.md",
+    "System Design Architecture/Software Design Management.md",
+    "System Design Architecture/Construction Design.md",
+    "System Design Architecture/Creational Design Patterns.md",
     "System Design Architecture/Design Pattern.md",
     "System Design Architecture/Behavioural Design Patterns.md",
-    "System Design Architecture/Creational Design Patterns.md",
+    "AI",
     "Linkedin Todo.md",
-    "System Design Architecture/Construction Design.md",
     "System Design Architecture/Behavioural/Observer.md",
     "System Design Architecture/Behavioural/Iterator.md",
-    "System Design Architecture/Structural Design Patterns.md",
     "System Design Architecture/Creational/Factory.md",
     "System Design Architecture/Creational/Builder.md",
     "System Design Architecture/Creational/Singleton.md",
