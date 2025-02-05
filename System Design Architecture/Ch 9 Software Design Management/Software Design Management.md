@@ -158,11 +158,18 @@ BAC,ETC,EAC = BAC-EV/CPI + AC
 	- Stability 
 	- Intelligence
 	- Sensitivity to others
-	- 
 - ethical leadership
-	- a
+	- lead by example
+	- set tone for employees
 - power
-	- a
+	- def : influence over others
+	- Potential : perception of power ,not the power itself
+	- source
+		- Position power (hierarchical)
+			- Reward power (give reward to employee)
+			- Coercive power (punish/withhold reward)
+		- Personal power (behavioural) (being positive may influence other etc)
+			- expert power (influence based on knowledge and skills)
 
 
 # Key leadership skill
