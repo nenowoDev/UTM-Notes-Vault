@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design Architecture/Software Design Management.md",
+                "file": "2025-02-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Software Design Management"
+              "title": "2025-02-05"
             }
           }
         ],
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "4a7ce213b6031647",
@@ -227,14 +226,15 @@
   },
   "active": "453d12081e2b3a90",
   "lastOpenFiles": [
-    "System Design Architecture/Structural Design Patterns.md",
+    "Linkedin Todo.md",
+    "2025-02-05.md",
     "System Design Architecture/Software Design Management.md",
+    "System Design Architecture/Structural Design Patterns.md",
     "System Design Architecture/Construction Design.md",
     "System Design Architecture/Creational Design Patterns.md",
     "System Design Architecture/Design Pattern.md",
     "System Design Architecture/Behavioural Design Patterns.md",
     "AI",
-    "Linkedin Todo.md",
     "System Design Architecture/Behavioural/Observer.md",
     "System Design Architecture/Behavioural/Iterator.md",
     "System Design Architecture/Creational/Factory.md",
@@ -260,7 +260,6 @@
     "Excalidraw/Drawing 2025-02-01 17.42.01.excalidraw.md",
     "Excalidraw",
     "Drawing 2025-02-01 17.06.16.excalidraw.md",
-    "Drawing 2025-02-01 17.05.57.excalidraw.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
