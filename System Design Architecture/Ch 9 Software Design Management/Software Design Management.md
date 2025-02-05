@@ -135,3 +135,44 @@ BAC,ETC,EAC = BAC-EV/CPI + AC
 - update schedule/cost
 - re evaluate budget 
 - communicate result to management
+
+
+
+# Leading the design effort
+- Personality traits and leadership
+	- sociable traits 
+	- achievement traits
+	- sum of traits = personality
+- Personality dimensions ( BIG FIVE personality model )
+	- agreeableness (getting along w ppl)
+	- surgency (dominant)
+	- adjustment (stable emotionally)
+	- conscientiousness (willing extra hours for achievement/objective)
+	- openness to experience (flexible)
+- traits of effective leaders
+	- Dominance 
+	- High energy
+	- Integrity
+	- Flexibility
+	- Self-confidence
+	- Stability 
+	- Intelligence
+	- Sensitivity to others
+	- 
+- ethical leadership
+	- a
+- power
+	- a
+
+
+# Key leadership skill
+- Communication
+- Networking 
+- Motivation
+- Negotiation
+
+
+# Ethics in software design
+- Public and product principles
+- Judgement principles
+- Management principles
