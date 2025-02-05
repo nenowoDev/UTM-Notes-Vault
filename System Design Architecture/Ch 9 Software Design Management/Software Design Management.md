@@ -170,13 +170,21 @@ BAC,ETC,EAC = BAC-EV/CPI + AC
 			- Coercive power (punish/withhold reward)
 		- Personal power (behavioural) (being positive may influence other etc)
 			- expert power (influence based on knowledge and skills)
+			- connection power
 
 
 # Key leadership skill
 - Communication
+	- oral
+	- written
 - Networking 
 - Motivation
 - Negotiation
+	- principled negotiation
+		- separate people from problem
+		- focus on interests rather than positions
+		- generate options before reaching agreement
+		- insist on using objective criteria
 
 
 # Ethics in software design
