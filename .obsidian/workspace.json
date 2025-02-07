@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design Architecture/Ch 9 Software Design Management/Software Design Management.md",
+                "file": "System Design Architecture/Ch 6 and 7 Design Patterns/Creational/Abstract Factory.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Software Design Management"
+              "title": "Abstract Factory"
             }
           }
         ],
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "4a7ce213b6031647",
@@ -227,16 +226,16 @@
   },
   "active": "453d12081e2b3a90",
   "lastOpenFiles": [
+    "System Design Architecture/Ch 6 and 7 Design Patterns/Creational Design Patterns.md",
+    "System Design Architecture/Ch 6 and 7 Design Patterns/Design Pattern.md",
+    "System Design Architecture/Ch 9 Software Design Management/Software Design Management.md",
     "System Design Architecture/Ch 9 Software Design Management",
     "System Design Architecture/Ch 8 Principles of Construction Design",
     "System Design Architecture/Ch 6 and 7 Design Patterns",
     "System Design Architecture/Ch 6 and 7 Design Patterns/Structural Design Patterns.md",
     "System Design Architecture/Ch 8 Principles of Construction Design/Construction Design.md",
-    "System Design Architecture/Ch 9 Software Design Management/Software Design Management.md",
     "2025-02-05.md",
     "Linkedin Todo.md",
-    "System Design Architecture/Ch 6 and 7 Design Patterns/Creational Design Patterns.md",
-    "System Design Architecture/Ch 6 and 7 Design Patterns/Design Pattern.md",
     "System Design Architecture/Ch 6 and 7 Design Patterns/Behavioural Design Patterns.md",
     "AI",
     "System Design Architecture/Ch 6 and 7 Design Patterns/Behavioural/Observer.md",
